@@ -1,0 +1,10 @@
+#goal definition
+string command
+---
+#result definition
+float64 translation
+float64 rotation
+---
+#feedback definition
+float64 translation
+float64 rotation

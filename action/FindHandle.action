@@ -1,0 +1,7 @@
+#goal definition
+---
+#result definition
+sensor_msgs/RegionOfInterest bbox
+geometry_msgs/PointStamped[] keypoints
+---
+#feedback definition
