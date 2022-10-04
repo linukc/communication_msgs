@@ -3,5 +3,7 @@
 #result definition
 sensor_msgs/RegionOfInterest bbox
 geometry_msgs/PointStamped[] keypoints
+string debug
 ---
 #feedback definition
+string debug
