@@ -72,6 +72,7 @@ add_action_files(
   OpenDoor.action
   SimpleCommand.action
   FindHandle.action
+  PathThroughTheDoor.action
 )
 
 ## Generate added messages and services with any dependencies listed here
