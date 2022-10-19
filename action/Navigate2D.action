@@ -1,0 +1,9 @@
+#goal definition
+string goal
+---
+#result definition
+string status
+---
+#feedback definition
+float32 x
+float32 y

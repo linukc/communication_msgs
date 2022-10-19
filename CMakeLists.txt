@@ -69,10 +69,9 @@ add_action_files(
   DIRECTORY action
   FILES 
   MoveToPoint.action
-  OpenDoor.action
   SimpleCommand.action
   FindHandle.action
-  PathThroughTheDoor.action
+  Navigate2D.action
 )
 
 ## Generate added messages and services with any dependencies listed here
