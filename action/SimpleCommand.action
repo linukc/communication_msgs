@@ -2,9 +2,6 @@
 string command
 ---
 #result definition
-float64 translation
-float64 rotation
+string debug_string
 ---
 #feedback definition
-float64 translation
-float64 rotation
