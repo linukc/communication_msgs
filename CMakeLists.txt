@@ -62,6 +62,7 @@ add_service_files(
   FILES
   DetachGripper.srv
   OpenDoor.srv
+  PushButton.srv
 )
 
 ## Generate actions in the 'action' folder
