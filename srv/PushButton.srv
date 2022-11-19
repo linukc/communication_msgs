@@ -1,0 +1,4 @@
+string symbol
+int8 lmr # -1 if left, 0 if middle, 1 if right
+---
+string result
