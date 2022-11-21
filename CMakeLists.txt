@@ -73,6 +73,7 @@ add_action_files(
   SimpleCommand.action
   FindHandle.action
   Navigate2D.action
+  DoorCoord.action
 )
 
 ## Generate added messages and services with any dependencies listed here
