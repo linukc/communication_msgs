@@ -1,7 +1,0 @@
-#goal definition
-string command
----
-#result definition
-string debug_string
----
-#feedback definition
