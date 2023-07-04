@@ -67,7 +67,7 @@ add_service_files(
 #  DIRECTORY action
 #  FILES 
 #  MoveToPointWithOrientation.action
-)
+#)
 
 ## Generate added messages and services with any dependencies listed here
 generate_messages(
